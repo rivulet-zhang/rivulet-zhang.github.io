@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 Hi, I am a Ph.D. candidate under the supervision of [Prof. David Ebert](https://engineering.purdue.edu/~ebertd) at [Purdue University](http://www.purdue.edu/).
-Previous, I received a bachelor's degree in computer science from [Zhejiang University](http://www.zju.edu.cn/), under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in the State Key Laboratory of CAD &amp; CG. I spent several weeks in [NCSU](https://www.ncsu.edu/) in 2012, working with [Prof. Ben Watson](https://www.csc.ncsu.edu/people/bwatson) on Large-Screen Visualization.
+Previous, I received a bachelor's degree in computer science from [Zhejiang University](http://www.zju.edu.cn/), under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in the State Key Laboratory of CAD &amp; CG. During my undergrad study, I focused on large-scale graph visualization and meteorological data visualization. I was a summer research intern at [NCSU](https://www.ncsu.edu/) in 2012, working with [Prof. Ben Watson](https://www.csc.ncsu.edu/people/bwatson) on Large-Screen Visualization.
 
 My research interests lie in the general areas of Visual Analytics, Information Visualization and Computer-Human Interaction.
 Please check out [Projects](/projects.html) and [Publications](/publications.html) for more information. <br>
