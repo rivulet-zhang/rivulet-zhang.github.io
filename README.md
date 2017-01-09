@@ -1,1 +1,1 @@
-# rivulet-zhang.github.io
+Jiawei Zhang's homepage -- Adapted from https://xiecong.github.io/
