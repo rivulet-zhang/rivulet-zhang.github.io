@@ -6,13 +6,15 @@ permalink: /
 Hi, I am a Ph.D. candidate under the supervision of [Prof. David Ebert](https://engineering.purdue.edu/~ebertd) at [Purdue University](http://www.purdue.edu/).
 Previous, I received a bachelor's degree in computer science from [Zhejiang University](http://www.zju.edu.cn/). During my undergraduate study, I was under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in the State Key Laboratory of CAD &amp; CG. I was a summer research intern at NCSU in 2012, mainly working with [Prof. Ben Watson](https://www.csc.ncsu.edu/people/bwatson).
 
-My research interests lie in the general areas of Visual Analytics, Information Visualization and Computer-Human Interaction.<br>
+My research interests lie in the general areas of Visual Analytics, Information Visualization and Computer-Human Interaction.
+Please check out [Projects](/projects.html) and [Publications](/publications.html) for more information. <br>
 
 My previous &amp; current research includes:
 
 InfoVis and CHI:
 <ul>
 <li>Geospatial Visualization (Multi-Scale Navigation and Interaction, Context Preservation)</li>
+<li>Text Visualization</li>
 <li>User-Centric Visualization Design and Evaluation</li>
 <li></li>
 </ul>
