@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 permalink: /
 ---
+
+<div style="text-align: justify;text-justify: inter-word;">
 Hi, I am a Ph.D. candidate under the supervision of [Prof. David Ebert](https://engineering.purdue.edu/~ebertd) at [Purdue University](http://www.purdue.edu/).
 Previous, I received a bachelor's degree in computer science from [Zhejiang University](http://www.zju.edu.cn/), under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in the State Key Laboratory of CAD &amp; CG. During my undergrad study, I focused on large-scale graph visualization and meteorological data visualization. I was a summer research intern at [NCSU](https://www.ncsu.edu/) in 2012, working with [Prof. Ben Watson](https://www.csc.ncsu.edu/people/bwatson) on large-screen text visualization.
 
@@ -31,3 +33,4 @@ Contact: 500 Central Drive, Potter Engineering Center, West Lafayette, IN 47906 
 Phone: (404)-769-2414
 
 You can also download my resume [here](http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/Resume--Jiawei Zhang.pdf).
+</div>
