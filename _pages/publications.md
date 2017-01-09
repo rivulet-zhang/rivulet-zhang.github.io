@@ -53,8 +53,8 @@ Haidong Chen, Song Zhang, Wei Chen, Honghui Mei, <b>Jiawei Zhang</b>, Andrew Mer
 <h2 style="margin-bottom:0px;padding-top:10px;">Conference Short Papers</h2>
 
 <p>
-<b>William Hatton</b>, et al.
-<br><b>Visual analytics for detecting communication patterns</b><br>
+William Hatton, et al.
+<br><b>Visual Analytics for Detecting Communication Patterns</b><br>
 <i>Proceedings of the IEEE Conference on Visual Analytics Science and Technology, VAST Challenge, 2015</i>
 VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>
 <br>
@@ -62,8 +62,8 @@ VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>
 </p>
 
 <p>
-<b>Chen Guo</b>, et al.
-<br><b>Dodeca-rings map: Interactively finding patterns and events in large geo-temporal data</b><br>
+Chen Guo, et al.
+<br><b>Dodeca-Rings Map: Interactively Finding Patterns and Events in Large Geo-Temporal Data</b><br>
 <i>Proceedings of the IEEE Conference on Visual Analytics Science and Technology, VAST Challenge, 2014</i>
 VAST Challenge Honorable Mention: <i>Sponsor's Award for Novel Visualization</i>
 <br>
