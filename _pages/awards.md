@@ -6,6 +6,7 @@ author_profile: true
 permalink: /awards.html
 ---
 
+<h2 style="margin-bottom:0px;padding-top:10px;">Graduate Awards</h2>
 <p style="text-align:left; line-height:70%">
 VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>, IEEE
 <span style="float:right;">2015</span>
@@ -22,6 +23,8 @@ VAST Challenge Honorable Mention: <i>Sponsor's Award for Novel Visualization</i>
 RCA Zworykin Scholarship, Purdue University
 <span style="float:right;">2013</span>
 </p>
+
+<h2 style="margin-bottom:0px;padding-top:10px;">Undergraduate Awards</h2>
 <p style="text-align:left; line-height:70%">
 Scholarship for Outstanding Merits, First Class (Top 5&#37;), Zhejiang University
 <span style="float:right;">2009</span>
