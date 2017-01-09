@@ -10,19 +10,18 @@ permalink: /publications.html
 <h2 style="margin-bottom:0px;padding-top:10px;">Journal Articles and Conference Full Papers</h2>
 
 <!-- Item: Pont-Tuset2016a -->
-<li><p>
-<b>Jiawei Zhang</b>, Abish Malik, Benjamin Ahlbrand, Niklas Elmqvist, Ross Maciejewski, and David S. Ebert.
+<p>
+<b>Jiawei Zhang</b>, Abish Malik, Ben Ahlbrand, Niklas Elmqvist, Ross Maciejewski, and David S. Ebert.
 <br><b>TopoGroups: Cotext-Preserving Visual Illustration of Multi-Scale Spatial Aggregates.</b><br>
-<i>CHI'17: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2017</i>
+<i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2017</i>
 <a href="">[PDF]</a>
 <a href="">[Video]</a>
 </p>
-</li>
 
 <li><p>
-<b>Jiawei Zhang</b>, Benjamin Ahlbrand, Abish Malik, Junghoon Chae, Zhiyu Min, Sungahn Ko, and David S. Ebert.
+<b>Jiawei Zhang</b>, Ben Ahlbrand, Abish Malik, Junghoon Chae, Zhiyu Min, Sungahn Ko, and David S. Ebert.
 <br><b>A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation</b><br>
-<i>CGF: Computer Graphics Forum (Proc. EuroVis), 2016</i>
+<i>Computer Graphics Forum (Proc. EuroVis), 2016</i>
 <a href="">[PDF]</a>
 <a href="">[Video]</a>
 </p>
@@ -48,7 +47,7 @@ Haidong Chen, Song Zhang, Wei Chen, Honghui Mei, <b>Jiawei Zhang</b>, Andrew Mer
 
 <li ><p>
 Hui Lei, <b>Jiawei Zhang</b>, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
-<br><b>Visualizing Large- Scale Graph Based on Line Integral Convolution</b><br>
+<br><b>Visualizing Large-Scale Graph Based on Line Integral Convolution</b><br>
 <i>Journal of Computer-Aided Design & Computer Graphics (In Chinese), 2013</i>
 </p>
 
