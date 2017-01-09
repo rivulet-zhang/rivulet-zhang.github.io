@@ -7,7 +7,7 @@ permalink: /publications.html
 ---
 
 
-<h2>Journal Articles and Conference Full Papers</h2>
+<h2 style="margin-top:0px;">Journal Articles and Conference Full Papers</h2>
 
 <!-- Item: Pont-Tuset2016a -->
 <p>
