@@ -6,6 +6,22 @@ permalink: /
 Hi, I am a Ph.D. candidate under the supervision of [Prof. David Ebert](https://engineering.purdue.edu/~ebertd) at [Purdue University](http://www.purdue.edu/).
 Previous, I received a bachelor's degree in computer science from [Zhejiang University](http://www.zju.edu.cn/). During my undergraduate study, I was under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in the State Key Laboratory of CAD &amp; CG. I was a summer research intern at NCSU in 2012, mainly working with [Prof. Ben Watson](https://www.csc.ncsu.edu/people/bwatson).
 
+My research interests lie in the following aspects: <br>
+
+<b>Information Visualization and Computer-Human Interaction</b>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+<b>Visual Analytics</b>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
 Email: zhan1486 AT purdue DOT edu <br>
 Contact: 500 Central Drive, Potter Engineering Center, West Lafayette, IN 47906 <br>
 Phone: (404)-769-2414
