@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: ""
 layout: single
 excerpt: "Awards"
 author_profile: true
