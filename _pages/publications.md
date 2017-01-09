@@ -46,8 +46,33 @@ Haidong Chen, Song Zhang, Wei Chen, Honghui Mei, <b>Jiawei Zhang</b>, Andrew Mer
 <p>
 <b>Jiawei Zhang</b>, Junghoon Chae, Shehzad Afzal, Abish Malik, Dennis Thom, Yun Jang, Thomas Ertl, Sorin Matei, David Ebert.
 <br><b>Visual Analytics of User Influence and Location-Based Social Networks</b><br>
-<i>Transparency in Social Media}, Springer International Publishing, 2015</i><br>
+<i>Transparency in Social Media, Springer International Publishing, 2015</i><br>
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/BOOK15/TransparencySocialMedia.pdf">[PDF]</a>
 </p>
 
 <h2 style="margin-bottom:0px;padding-top:10px;">Conference Short Papers</h2>
+
+<p>
+<b>William Hatton</b>, et al.
+<br><b>Visual analytics for detecting communication patterns</b><br>
+<i>Proceedings of the IEEE Conference on Visual Analytics Science and Technology, VAST Challenge, 2015</i>
+VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>
+<br>
+<a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/VASTCHALLENGE/15/Park.pdf">[PDF]</a>
+</p>
+
+<p>
+<b>Chen Guo</b>, et al.
+<br><b>Dodeca-rings map: Interactively finding patterns and events in large geo-temporal data</b><br>
+<i>Proceedings of the IEEE Conference on Visual Analytics Science and Technology, VAST Challenge, 2014</i>
+VAST Challenge Honorable Mention: <i>Sponsor's Award for Novel Visualization</i>
+<br>
+<a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/VASTCHALLENGE/14B/DodecaRing.pdf">[PDF]</a>
+</p>
+
+<p>
+<b>Jiawei Zhang</b>, et al.
+<br><b>Real-Time Identification and Monitoring of Abnormal Events Based on Microblog and Emergency Call Data</b><br>
+<i>Proceedings of the IEEE Conference on Visual Analytics Science and Technology, VAST Challenge, 2014</i><br>
+<a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/VASTCHALLENGE/14A/SMART.pdf">[PDF]</a>
+</p>
