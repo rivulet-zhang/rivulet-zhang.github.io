@@ -11,7 +11,7 @@ title                    : "Jiawei Zhang"
 title_separator          : "-"
 name                     : "Jiawei Zhang"
 description              : "Jiawei Zhang's personal website"
-url                      : https://rivulet-zhang.github.io/
+url                      : https://rivulet-zhang.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
