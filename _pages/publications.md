@@ -42,12 +42,6 @@ Haidong Chen, Song Zhang, Wei Chen, Honghui Mei, <b>Jiawei Zhang</b>, Andrew Mer
 <a href="">[Video]</a>
 </p>
 
-<p>
-Hui Lei, <b>Jiawei Zhang</b>, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
-<br><b>Visualizing Large-Scale Graph Based on Line Integral Convolution</b><br>
-<i>Journal of Computer-Aided Design & Computer Graphics (In Chinese), 2013</i><br>
-</p>
-
 <h2 style="margin-bottom:0px;padding-top:10px;">Book Chapters</h2>
 
 <p>
