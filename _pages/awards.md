@@ -6,4 +6,9 @@ author_profile: true
 permalink: /awards.html
 ---
 
-* Presented paper "VAET: A Visual Analytics Approach for E-Transactions Time-Series" at IEEE VIS 2014, Paris, France. <br> November 2014.
+VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>, IEEE 2015
+VAST Challenge Honorable Mention: <i>Sponsor's Award for Novel Visualization</i>, IEEE 2014
+Coast Guard Award for SMART: <i>Effective Support for Real-Time Situational Awareness<i>, USCG 2015
+RCA Zworykin Scholarship, Purdue University 2013
+Scholarship for Outstanding Merits, First Class, Zhejiang University 2009
+Scholarship for Outstanding Students, Zhejiang University 2009

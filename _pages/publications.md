@@ -7,86 +7,60 @@ permalink: /publications.html
 ---
 
 
-<h2 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h2>
+<h2 style="margin-bottom:0px;padding-top:10px;">Journal Articles and Conference Full Papers</h2>
 
 <!-- Item: Pont-Tuset2016a -->
-<li ><p>
-Cong Xie, Wen Zhong, Klaus Mueller
-<br><b>A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections</b><br>
-<i>IEEE Transactions on Visualization & Computer Graphics</i>
-<b>(IEEE VAST 2016 Honorable Mention Award)</b>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/vast261_latest.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/video.mp4">[Video]</a>
+<li><p>
+<b>Jiawei Zhang</b>, Abish Malik, Benjamin Ahlbrand, Niklas Elmqvist, Ross Maciejewski, and David S. Ebert.
+<br><b>TopoGroups: Cotext-Preserving Visual Illustration of Multi-Scale Spatial Aggregates.</b><br>
+<i>CHI'17: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2017</i>
+<a href="">[PDF]</a>
+<a href="">[Video]</a>
+</p>
+</li>
+
+<li><p>
+<b>Jiawei Zhang</b>, Benjamin Ahlbrand, Abish Malik, Junghoon Chae, Zhiyu Min, Sungahn Ko, and David S. Ebert.
+<br><b>A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation</b><br>
+<i>CGF: Computer Graphics Forum (Proc. EuroVis), 2016</i>
+<a href="">[PDF]</a>
+<a href="">[Video]</a>
+</p>
+</li>
+
+<li><p>
+Junghoon Chae, <b>Jiawei Zhang</b>, Sungahn Ko, Abish Malik, Heather Connell, David S. Ebert.
+<br><b>Visual Analytics for Investigative Analysis of Hoax Distress Calls Using Social Media.</b><br>
+<i>IEEE Symposium on Technologies for Homeland Security, 2016</i>
+<a href="">[PDF]</a>
+<a href="">[Video]</a>
+</p>
+</li>
+
+<li><p>
+Haidong Chen, Song Zhang, Wei Chen, Honghui Mei, <b>Jiawei Zhang</b>, Andrew Mercer, Ronghua Liang, Huamin Qu.
+<br><b>Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration.</b><br>
+<i>IEEE Transactions on Visualization and Computer Graphics, 2015</i>
+<a href="">[PDF]</a>
+<a href="">[Video]</a>
 </p>
 </li>
 
 <li ><p>
-Cong Xie, Wei Chen, Xinxin Huang, Yueqi Hu, Scott Barlowe, Jing Yang
-<br><b>VAET: A Visual Analytics Approach for E-Transactions Time-Series</b><br>
-<i>IEEE Transactions on Visualization & Computer Graphics</i>
-vol.20, no. 12, pp. 1743-1752, Dec. 2014
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/paper247.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/file247-6.mp4">[Video]</a>
-</p>
-</li>
-
-<h2 style="margin-bottom:0px;padding-top:10px;">Other Visualization Publications</h2>
-
-<li ><p>
-
-Cong Xie, Wen Zhong, Jun Kong ,Wei Xu, Klaus Mueller, Fusheng Wang
-<br><b>IEVQ: An Iterative Example-based Visual Query for Pathology Database</b><br>
-<i>VLDB-DMAH 2016</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/dmah10.pdf">[PDF]</a>
-</p>
-</li>
-
-<li ><p>
-Hui Lei, Cong Xie, Pingping Shang, Fan Zhang, Wei Chen and Qunsheng Peng
-<br><b>Visual Analysis of User-Driven Association Rule Mining</b><br>
-<i>International Symposium on Visual Information Communication and Interaction (VINCI 2016)</i>
-(Corresponding author)
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association.pdf">[PDF]</a>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Association_v2.mp4">[Video]</a>
-</p>
-</li>
-
-<li ><p>
-Cong Xie, Hui Lei, Xing Xu, Haidong Chen, Jinsong Yang, Sengxiang Yan, and Wei Chen
-<br><b>Computing 3D Distance Fields for Scenes with Occluders Based on Parallel Euclidean Distance Transform</b><br>
-<i>Journal of Zhejiang University (Engineering Science) (In Chinese)</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/3DPBA.pdf">[PDF]</a>
-</p>
-</li>
-
-<li ><p>
-Guizhen Wang, Chaokai Wen, Binghui Yan, Cong Xie, Ronghua Liang and Wei Chen
-<br><b>Topic Hypergraph: Hierarchical Visualization of Thematic Structures in Long Documents</b><br>
-<i>Science China Information Sciences</i>
-May 2013, Volume 56, Issue 5, pp 1-14.</p>
-</li>
-
-<li ><p>
-Jing Xia, Feiran Wu, Fangzhou Guo, Cong Xie, Zhen Liu, and Wei Chen
-<br><b>An Online Visualization System for Streaming Log Data of Computing Clusters</b><br>
-<i>Tsinghua Science and Technology</i>
-2013, 18(2):196-205
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/stream.pdf">[PDF]</a>
-</p>
-</li>
-
-<li ><p>
-Hui Lei, Jiawei Zhang, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
+Hui Lei, <b>Jiawei Zhang</b>, Haidong Chen, Cong Xie, Zhen Liu, Xin Li, Wei Chen
 <br><b>Visualizing Large- Scale Graph Based on Line Integral Convolution</b><br>
-<i>Journal of Computer-Aided Design & Computer Graphics 2013</i>
-25(9) (In Chinese)
+<i>Journal of Computer-Aided Design & Computer Graphics (In Chinese), 2013</i>
 </p>
 
+<h2 style="margin-bottom:0px;padding-top:10px;">Book Chapters</h2>
+
 <li ><p>
-Xing Xu, Cong Xie, Fuli Wu, Jinsong Yang, Wuheng Zuo, SengXiang Yan, and Wei Chen
-<br><b>Web Oriented Medical Image Visualization System</b><br>
-<i>The 16th National Conference on Image and Graphics (NCIG 2012) (In Chinese)</i>
-<a href="http://www3.cs.stonybrook.edu/~coxie/homepage_files/Web.pdf">[PDF]</a>
+<b>Jiawei Zhang</b>, Junghoon Chae, Shehzad Afzal, Abish Malik, Dennis Thom, Yun Jang, Thomas Ertl, Sorin Adam Matei, and David S. Ebert.
+<br><b>Visual Analytics of User Influence and Location-Based Social Networks</b><br>
+<i>Transparency in Social Media}, Springer International Publishing, 2015</i>
+<a href="">[PDF]</a>
+<a href="">[Video]</a>
 </p>
 </li>
-</li>
+
+<h2 style="margin-bottom:0px;padding-top:10px;">Conference Short Papers</h2>
