@@ -21,11 +21,3 @@ In this project I used modified decision tree to explore interesting transaction
 
 * **Dynamic Logistics Visualization**<br>
 This is a cooperation project with Taobao.com. I am the algorithm designer and the programmer. In this project I generated a dynamic density map of logistics datasets using Kernel Density Estimation.
-
-### Scientific Visualization
-* **Clinic Treatment Volume (CTV) Computation of Glioma** <br>
-This is a cooperation project with The First A liated Hospital, Zhejiang University. I am one of the algorithm designers and the programmers. I extended an existing GPU-based parallel Euclidean distance transform method to compute a 3D distance transform for scenes that contain occluders.
-
-
-* **AVIS** <br>
-AVIS is a numerical 3D meteorological data visualization system. I am one of the programmers. I visualized the wind vector field using Streamline and Line Integral Convolution (LIC) in this project.
