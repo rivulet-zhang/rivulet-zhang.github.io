@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Cong Xie"
+title                    : "Jiawei Zhang"
 title_separator          : "-"
-name                     : "Cong Xie"
-description              : "An amazing website."
-url                      : https://xiecong.github.io
+name                     : "Jiawei Zhang"
+description              : "Jiawei Zhang's personal website"
+url                      : https://rivulet-zhang.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "congxie" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "jiaweizhang" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cong Xie (解聪)"
-  avatar           : "IMG_1570.jpg"
-  bio              : "Focusing on visual analytics."
-  location         : "Stony Brook, NY"
+  name             : "Jiawei Zhang (张嘉伟)"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. Candidate at Purdue University working on InfoVis, VAST and HCI. ZJU alumni."
+  location         : "West Lafayette, IN"
   email            : 
   uri              :
   bitbucket        :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : xiecong
+  github           : rivulet-zhang
   google_plus      :
   keybase          :
   instagram        :
