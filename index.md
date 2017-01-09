@@ -5,7 +5,7 @@ permalink: /
 ---
 
 {: .text-justify}
-Hi, I am a Ph.D. candidate under the supervision of [Prof. David Ebert](https://engineering.purdue.edu/~ebertd) at [Purdue University](http://www.purdue.edu/).
+Hi, I am a Ph.D. candidate under the supervision of [Prof. David Ebert](https://engineering.purdue.edu/~ebertd) at [Purdue University](http://www.purdue.edu/). I work as a research assistant at [Purdue/DHS Visual Analytics Center of Excellence](https://www.purdue.edu/discoverypark/vaccine/).
 Previous, I received a bachelor's degree in computer science from [Zhejiang University](http://www.zju.edu.cn/), under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in the State Key Laboratory of CAD &amp; CG. During my undergrad study, I focused on large-scale graph visualization and meteorological data visualization. I was a summer research intern at [NCSU](https://www.ncsu.edu/) in 2012, working with [Prof. Ben Watson](https://www.csc.ncsu.edu/people/bwatson) on large-screen text visualization.
 
 My research interests lie in the general areas of visual analytics, information visualization and computer-human interaction.
