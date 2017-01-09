@@ -6,7 +6,7 @@ author_profile: true
 permalink: /awards.html
 ---
 
-<h2 style="margin-bottom:0px;">Graduate Awards</h2>
+<h2 style="margin-top:0px;">Graduate Awards</h2>
 
 <p style="text-align:left; line-height:70%">
 VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>, IEEE
