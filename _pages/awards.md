@@ -22,11 +22,18 @@ VAST Challenge Honorable Mention: <i>Sponsor's Award for Novel Visualization</i>
 RCA Zworykin Scholarship, Purdue University
 <span style="float:right;">2013</span>
 </p>
+
+<ul>
+<li>
 <p style="text-align:left;">
-Scholarship for Outstanding Merits, First Class, Zhejiang University
+Scholarship for Outstanding Merits, First Class (Top 5&#37;), Zhejiang University
 <span style="float:right;">2009</span>
 </p>
+</li>
+<li>
 <p style="text-align:left;">
 Scholarship for Outstanding Students, Zhejiang University
 <span style="float:right;">2009</span>
 </p>
+</li>
+</ul>
