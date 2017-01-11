@@ -17,7 +17,8 @@ permalink: /projects.html
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/CHI17/TopoGroups.mp4">[Video]</a>
 </p>
 
-**Real-Time Location-Based Social Media Visual Analytics**<br>
+
+<br>**Real-Time Location-Based Social Media Visual Analytics**<br>
 
 <img style="float: left; margin: 5px 5px 5px 5px;" src="/images/SMART.png" width="300" />
 
@@ -29,7 +30,7 @@ through topic extraction, combination of filters, cluster examination, and strea
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/SMART/SMARTDemo-SuperBowl.wmv">[Video3]</a>
 </p>
 
-**Visual Analytics of Multiple Scales and Information Dimensions in Social Media**<br>
+<br>**Visual Analytics of Multiple Scales and Information Dimensions in Social Media**<br>
 
 <img style="float: left; margin: 5px 5px 5px 5px;" src="/images/EV16-teaser.png" width="300" />
 
