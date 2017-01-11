@@ -25,7 +25,7 @@ RCA Zworykin Scholarship, Purdue University
 <span style="float:right;">2013</span>
 </p>
 
-<h2 style="margin-bottom:0px;padding-top:10px;">Undergraduate Awards</h2>
+<h2 style="margin-bottom:5px;padding-top:10px;">Undergraduate Awards</h2>
 <p style="text-align:left; line-height:70%">
 Scholarship for Outstanding Merits, First Class (Top 5&#37;), Zhejiang University
 <span style="float:right;">2009</span>
