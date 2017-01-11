@@ -13,18 +13,18 @@ Please check out [Projects](/projects.html) and [Publications](/publications.htm
 
 My previous &amp; current research includes:
 
-InfoVis and CHI:
-<ul>
-<li>Geospatial visualization (multi-scale navigation and interaction, context preservation)</li>
-<li>Text visualization</li>
-<li>User-centric visualization design and evaluation</li>
-</ul>
-
 Visual Analytics:
 <ul>
 <li>Spatiotemporal data (e.g., multi-scale clustering, anomaly detection)</li>
 <li>Streaming data and situational awareness (e.g., real-time social media, dynamic networks)</li>
 <li>Text and document data (e.g., topic modeling, word embedding)</li>
+</ul>
+
+InfoVis and CHI:
+<ul>
+<li>Geospatial visualization (multi-scale navigation and interaction, context preservation)</li>
+<li>Text visualization</li>
+<li>User-centric visualization design and evaluation</li>
 </ul>
 
 <br>
