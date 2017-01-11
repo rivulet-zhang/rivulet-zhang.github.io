@@ -39,3 +39,11 @@ through topic extraction, combination of filters, cluster examination, and strea
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/EV16/Eurovis16_Microblogs_Zhang_video.mp4">[Video]</a>
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/EV16/Eurovis16_Microblogs_Zhang_slides.pdf">[Slides]</a>
 </p>
+
+<br>**Interactive Identification of Key Players in Social Conversations on Special Events**<br>
+
+<img style="float: left; margin: 5px 5px 5px 5px;" src="/images/VIS14-network.png" width="300" />
+
+<p class="dsp" style="overflow: hidden;">
+Social networks have evolved as an important source of information and situational awareness in crisis and emergency management. With a massive number of messages generated and diffused through social networks, locating reliable and critical information in a timely manner is crucial, especially for decision makers. In such scenarios, influential users in social networks are often instrumental in providing important information and serve as vital links for other sources. In this paper, we propose a visual analytics system focusing on identifying key players in dynamic social networks using Twitter data. The networks are generated based on the similarity metric of users’ topics, their retweet/reply relationships, and are then visualized using node-link as well as timeline representation. The system provides highly interactive visual monitoring, filtering, and editing operations of the networks to help categorize different topics, detect influential users in specific events, and investigate the underlying patterns over time. Our technique facilitates better exploration and examination of participation, reaction, and influence of users as well as the evolution of communities and information propagation.<br>
+</p>
