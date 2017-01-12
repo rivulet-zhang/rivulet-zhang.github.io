@@ -68,6 +68,11 @@
     text-align: justify;
   }
 
+  span.dsp {
+    font-size: $type-size-6;
+    text-align: justify; 
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
