@@ -13,7 +13,7 @@ VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>, IEEE
 <span style="float:right;">2015</span>
 </p>
 <p style="text-align:left; line-height:70%">
-Coast Guard Award for SMART: <i>Effective Support for Real-Time Situational Awareness</i>, USCG
+Coast Guard Award for SMART: <i>Effective Real-Time Support for Situational Awareness</i>, USCG
 <span style="float:right;">2015</span>
 </p>
 <p style="text-align:left; line-height:70%">
