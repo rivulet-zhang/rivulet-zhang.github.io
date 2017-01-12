@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiawei Zhang (张嘉伟)"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D. Candidate at Purdue University working on InfoVis, VAST and HCI. ZJU alumni."
   location         : "West Lafayette, IN"
   email            : 
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/jiawei.zhang.7355
   foursquare       :
   github           : rivulet-zhang
   google_plus      :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/rivuletzhang
   vine             :
   weibo            :
   xing             :
