@@ -6,7 +6,7 @@ author_profile: true
 permalink: /projects.html
 ---
 
-**Forecasting the Flow of Human Crowds (Ongoing)**<br>
+**Forecasting the Flow of Human Crowds**<br>
 
 <img class="bord" style="float: left; margin: 5px 5px 5px 5px;" src="/images/TVCG17-teaser.png" width="220" border="1"/>
 
