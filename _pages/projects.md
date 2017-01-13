@@ -25,6 +25,8 @@ permalink: /projects.html
 
 <br>**Real-Time Location-Based Social Media Visual Analytics**<br>
 
+<i>Also known as Social Media Analytical and Reporting Toolkit (SMART)</i><br>
+
 <img class="bord" style="float: left; margin: 5px 5px 5px 5px;" src="/images/SMART.png" width="220" border="1"/>
 
 <p class="dsp" style="overflow: hidden;">The number of microblog posts published daily has reached a level that hampers the effective retrieval of relevant messages and information, while the volume of data from services such as Twitter is still increasing. Analysts require new methods for monitoring topics of interest, identifying trends and anomalies, and dealing with the data volume and its dynamic nature. It is of particular importance to provide situational awareness for decision making in time-critical tasks. SMART provides end users with scalable and interactive social media analysis and visualization through topic extraction, combination of filters, cluster examination, and stream categorization. These components are tightly integrated into a highly interactive visual analysis workbench, which allows end users to observe, supervise, and configure the methods in each individual analysis process.<br>
