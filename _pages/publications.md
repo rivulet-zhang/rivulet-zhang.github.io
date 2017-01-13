@@ -20,7 +20,7 @@ permalink: /publications.html
 
 <p>
 <b>Jiawei Zhang</b>, Ben Ahlbrand, Abish Malik, Junghoon Chae, Zhiyu Min, Sungahn Ko, David Ebert.
-<br><b>A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation</b><br>
+<br><b>A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation.</b><br>
 <i>Computer Graphics Forum (Proc. EuroVis), 2016</i><br>
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/EV16/Eurovis16_Microblogs_Zhang_paper.pdf">[PDF]</a>
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/EV16/Eurovis16_Microblogs_Zhang_video.mp4">[Video]</a>
