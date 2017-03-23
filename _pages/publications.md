@@ -11,6 +11,12 @@ permalink: /publications.html
 
 <!-- Item: Pont-Tuset2016a -->
 <p>
+Louis Ngamassi, Abish Malik, <b>Jiawei Zhang</b>, David Ebert.
+<br><b>Social Media Visual Analytic Toolkits for Disaster Management: A Review of the Literature.</b><br>
+<i>International Conference on Information Systems for Crisis Response and Management, 2017</i><br>
+</p>
+
+<p>
 <b>Jiawei Zhang</b>, Abish Malik, Ben Ahlbrand, Niklas Elmqvist, Ross Maciejewski, David Ebert.
 <br><b>TopoGroups: Cotext-Preserving Visual Illustration of Multi-Scale Spatial Aggregates.</b><br>
 <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2017</i><br>
