@@ -9,7 +9,12 @@ permalink: /publications.html
 
 <h2 style="margin-top:0px;">Journal Articles and Conference Full Papers</h2>
 
-<!-- Item: Pont-Tuset2016a -->
+<p>
+Louis Tay, Vincent Ng, Abish Malik, <b>Jiawei Zhang</b>, Junghoon Chae, David S. Ebert.
+<br><b>Big Data Visualizations in Organizational Science.</b><br>
+<i>Organizational Research Methods (ORM)</i><br>
+</p>
+
 <p>
 Louis Ngamassi, Abish Malik, <b>Jiawei Zhang</b>, David Ebert.
 <br><b>Social Media Visual Analytic Toolkits for Disaster Management: A Review of the Literature.</b><br>
