@@ -12,7 +12,8 @@ permalink: /publications.html
 <p>
 Louis Tay, Vincent Ng, Abish Malik, <b>Jiawei Zhang</b>, Junghoon Chae, David S. Ebert.
 <br><b>Big Data Visualizations in Organizational Science.</b><br>
-<i>To appear in Organizational Research Methods (ORM).</i><br>
+<i>Organizational Research Methods (ORM), 2017.</i><br>
+<a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/ORM/ORM.pdf">[PDF]</a>
 </p>
 
 <p>
