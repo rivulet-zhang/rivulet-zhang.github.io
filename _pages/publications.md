@@ -10,7 +10,14 @@ permalink: /publications.html
 <h2 style="margin-top:0px;">Journal Articles and Conference Full Papers</h2>
 
 <p>
-Louis Tay, Vincent Ng, Abish Malik, <b>Jiawei Zhang</b>, Junghoon Chae, David S. Ebert.
+<b>Jiawei Zhang</b>, Junghoon Chae, Chittayong Surakitbanharn, David Ebert.
+<br><b>SMART: Social Media Analytics and Reporting Toolkit.</b><br>
+<i>IEEE VIS Workshop on Visualization in Practice, 2017.</i><br>
+<a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/VIP/SMART_VIP.pdf">[PDF]</a>
+</p>
+
+<p>
+Louis Tay, Vincent Ng, Abish Malik, <b>Jiawei Zhang</b>, Junghoon Chae, David Ebert.
 <br><b>Big Data Visualizations in Organizational Science.</b><br>
 <i>Organizational Research Methods (ORM), 2017.</i><br>
 <a href="http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/ORM/ORM.pdf">[PDF]</a>
