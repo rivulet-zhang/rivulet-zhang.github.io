@@ -28,11 +28,12 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$customFont                 : Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+$customFont1                : Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+$customFont2                : "Trebuchet MS", Helvetica, sans-serif;
 
-$global-font-family         : $customFont;
-$header-font-family         : $customFont;
-$caption-font-family        : $customFont;
+$global-font-family         : $customFont2;
+$header-font-family         : $customFont2;
+$caption-font-family        : $customFont2;
 
 /* type scale */
 
