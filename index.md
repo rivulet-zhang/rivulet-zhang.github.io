@@ -32,4 +32,4 @@ Email: zhan1486 AT purdue DOT edu <br>
 Contact: 500 Central Drive, Potter Engineering Center, West Lafayette, IN 47906 <br>
 Phone: (404)-769-2414
 
-You can also download my resume [here](http://pixel.ecn.purdue.edu:8080/~zhan1486/permanent/Resume--Jiawei Zhang.pdf).
+You can also download my resume [here](https://www.dropbox.com/s/ogyftshnk69gxe8/CV_Jiawei_Zhang.pdf?dl=0).
