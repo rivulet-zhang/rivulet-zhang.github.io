@@ -8,6 +8,12 @@ permalink: /awards.html
 
 <h2 style="margin-top:0px;">Graduate Awards</h2>
 
+Best Paper Honorable Mention, ACM CHI Conference
+
+<p style="text-align:left; line-height:70%">
+Best Paper Honorable Mention, ACM CHI Conference
+<span style="float:right;">2018</span>
+</p>
 <p style="text-align:left; line-height:70%">
 VAST Challenge Honorable Mention: <i>Compelling Narrative Debrief</i>, IEEE
 <span style="float:right;">2015</span>

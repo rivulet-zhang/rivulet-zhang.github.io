@@ -6,8 +6,15 @@ author_profile: true
 permalink: /publications.html
 ---
 
-
 <h2 style="margin-top:0px;">Journal Articles and Conference Full Papers</h2>
+
+<p>
+<b>Jiawei Zhang</b>, Chiayong Surakitbanharn, Niklas Elmqvist, Ross Maciejewski, Zhenyu Qian, David Ebert
+<br><b>TopoText: Context-Preserving Text Data Exploration Across Multiple Spatial Scales.</b><br>
+<i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2018</i><br>
+(Best Paper Honorable Mention, top 5%)<br>
+<a href="https://www.dropbox.com/s/axbatji56tb4xku/TopoText.pdf?dl=0">[PDF]</a>
+</p>
 
 <p>
 <b>Jiawei Zhang</b>, Junghoon Chae, Chittayong Surakitbanharn, David Ebert.
