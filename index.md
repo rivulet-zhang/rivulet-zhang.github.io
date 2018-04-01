@@ -14,6 +14,7 @@ Please check out [Projects](/projects.html) and [Publications](/publications.htm
 My previous &amp; current research includes:
 
 Visual Analytics:
+
 <ul>
 <li>Spatiotemporal data (e.g., multi-scale clustering, anomaly detection)</li>
 <li>Streaming data and situational awareness (e.g., real-time social media, dynamic networks)</li>
@@ -21,6 +22,7 @@ Visual Analytics:
 </ul>
 
 InfoVis and CHI:
+
 <ul>
 <li>Geospatial visualization (multi-scale navigation and interaction, context preservation)</li>
 <li>Text visualization</li>
@@ -32,4 +34,4 @@ Email: zhan1486 AT purdue DOT edu <br>
 Contact: 500 Central Drive, Potter Engineering Center, West Lafayette, IN 47906 <br>
 Phone: (404)-769-2414
 
-You can also download my resume [here](https://www.dropbox.com/s/ogyftshnk69gxe8/CV_Jiawei_Zhang.pdf?dl=0).
+You can also download my resume [here](https://rivulet-zhang.github.io/dataRepo/static/JiaweiZhang_Resume.pdf).
