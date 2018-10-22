@@ -8,8 +8,6 @@ permalink: /awards.html
 
 <h2 style="margin-top:0px;">Graduate Awards</h2>
 
-Best Paper Honorable Mention, ACM CHI Conference
-
 <p style="text-align:left; line-height:70%">
 Best Paper Honorable Mention, ACM CHI Conference
 <span style="float:right;">2018</span>
