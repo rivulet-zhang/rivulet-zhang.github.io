@@ -9,6 +9,13 @@ permalink: /publications.html
 <h2 style="margin-top:0px;">Journal Articles and Conference Full Papers</h2>
 
 <p>
+<b>Jiawei Zhang</b>, Yang Wang, Yang Wang, Piero Molino, Lezhi Li, David Ebert.
+<br><b>Manifold: A Model-Agnostic Framework for Interpretation and Diagnosis of Machine Learning Models.</b><br>
+<i>IEEE Transactions on Visualization and Computer Graphics, 2019</i><br>
+<a href="https://arxiv.org/abs/1808.00196">[PDF]</a>
+</p>
+
+<p>
 <b>Jiawei Zhang</b>, Chiayong Surakitbanharn, Niklas Elmqvist, Ross Maciejewski, Zhenyu Qian, David Ebert
 <br><b>TopoText: Context-Preserving Text Data Exploration Across Multiple Spatial Scales.</b><br>
 <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2018</i><br>
